@@ -14,6 +14,7 @@ Predict house prices based on area using Machine Learning.
 - scikit-learn  
 
 ## ▶️ How to Run
+
 1. Install dependencies:
 2. Run the model:
    
