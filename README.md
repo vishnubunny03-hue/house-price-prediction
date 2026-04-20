@@ -15,7 +15,3 @@ Predict house prices based on area using Machine Learning.
 
 ## ▶️ How to Run
 1. Install dependencies:
-- Predicts price for given area  
-
-## 🚀 Future Improvements
-- Use real dataset  
