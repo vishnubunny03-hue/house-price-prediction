@@ -24,3 +24,5 @@ Predict house prices based on area using Machine Learning.
 
 ## 🚀 Future Improvements
 - Use real dataset  
+- Add more features (bedrooms, location, etc.)  
+- Build web app using Flask  
