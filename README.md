@@ -4,19 +4,19 @@
 Predict house prices based on area using Machine Learning.
 
 ## 🧠 Approach
-- Used Linear Regression model
-- Split data
+- Used Linear Regression model  
+- Split data into training and testing  
+- Evaluated using Mean Squared Error  
+
 ## 🛠 Tech Stack
 - Python  
 - pandas  
 - scikit-learn  
 
 ## ▶️ How to Run
-Install dependencies:
-pip install pandas scikit-learn
 
-Run the model:
-python model.py
+1. Install dependencies:
+2. Run the model:
    
 ## 📊 Output
 - Prints model error  
